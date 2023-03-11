@@ -15,3 +15,6 @@
 1. Turn OFF Alias
    1. https://answers.microsoft.com/en-us/windows/forum/all/why-i-cannot-turn-off-app-execution-aliases/d8b2d32e-e305-43db-8e5b-2512bcf201cb
    2. https://stackoverflow.com/questions/68246173/python-was-not-found-but-can-be-installed-when-using-spark-submit-on-windows
+
+#Word Count Configuration
+![img.png](img.png)
