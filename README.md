@@ -1,10 +1,12 @@
 #Steps For Setup
 1. Follow article for spark setup and configuration and NEw project in PyCharm "https://blog.stevengong.co/how-to-use-pyspark-in-pycharm-ide-2fd8997b1cdd"
-2. SAme as in above article add and create valiables 
+2. Same as in above article add and create variables 
    1. SPARK_HOME = C:\Program Files\Spark\spark-3.3.2-bin-hadoop3 
    2. HADOOP_HOME = C:\Program Files\Spark\spark-3.3.2-bin-hadoop3 (Pay attention on version you write above is equal to version that you have downloaded)
    3. Add to Path: C:\Program Files\Spark\spark-3.3.2-bin-hadoop3\bin
 
+3. Add Locations in Project Structure. These locations were created as part of Spark Installation
+![img_1.png](img_1.png)
 
 #Validations
 1. CD to "C:\Program Files\Spark\spark-3.3.2-bin-hadoop3\bin" and run command "spark-submit "C:\Program Files\Spark\spark-3.3.2-bin-hadoop3\examples\src\main\python\wordcount.py" "C:\Program Files\Spark\spark-3.3.2-bin-hadoop3\README.md""
