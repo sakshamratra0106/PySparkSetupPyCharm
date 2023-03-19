@@ -12,6 +12,7 @@
 1. CD to "C:\Program Files\Spark\spark-3.3.2-bin-hadoop3\bin" and run command "spark-submit "C:\Program Files\Spark\spark-3.3.2-bin-hadoop3\examples\src\main\python\wordcount.py" "C:\Program Files\Spark\spark-3.3.2-bin-hadoop3\README.md""
 2. CD to "C:\Program Files\Spark\spark-3.3.2-bin-hadoop3\bin" and run pyspark for python
 3. CD to "C:\Program Files\Spark\spark-3.3.2-bin-hadoop3\bin" and run spark-shell for scala
+4. Since Location ""C:\Program Files\Spark\spark-3.3.2-bin-hadoop3\bin"" is already added to path. commands pyspark and spark-shell will run from any location on local system no need to do cd always
 
 #Errors
 1. Turn OFF Alias
